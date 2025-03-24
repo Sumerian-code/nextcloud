@@ -1,0 +1,1 @@
+apps/richdocumentscode/collabora/Collabora_Online.AppImage filter=lfs diff=lfs merge=lfs -text
